@@ -1,0 +1,9 @@
+{
+  "name": "calculator-extension",
+  "version": "1.0.0",
+  "description": "Chrome Calculator Extension",
+  "private": true,
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
