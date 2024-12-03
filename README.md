@@ -20,7 +20,7 @@ Simple Calculator Chrome Extension
 4. 点击"加载已解压的扩展程序"
 5. 选择 calculator-extension 文件夹
 
-### 安装方法：
+### 使用方法：
 1. 点击工具栏图标使用计算器
 2. 或在网页中选中数字，右键选择"使用计算器计算"
 
